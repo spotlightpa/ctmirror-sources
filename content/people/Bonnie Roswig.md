@@ -12,7 +12,7 @@
     "Civil Rights & Equality",
     "Education",
     "Energy",
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [],
   "email": "YnJvc3dpZ0BjY2EtY3Qub3Jn",

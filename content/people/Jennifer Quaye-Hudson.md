@@ -10,7 +10,7 @@
   "role": "External Affairs Director",
   "expertise": [
     "Civil Rights & Equality",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Politics"
   ],
   "keywords": [

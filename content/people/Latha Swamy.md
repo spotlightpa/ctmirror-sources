@@ -11,10 +11,10 @@
   "expertise": [
     "Agriculture",
     "Civil Rights & Equality",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Economy / Economics",
     "Environment",
-    "Health And Medicine",
+    "Health & Medicine",
     "History",
     "Municipal Government",
     "Science",

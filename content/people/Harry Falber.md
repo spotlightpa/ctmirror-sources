@@ -9,7 +9,7 @@
   "pronoun": "He",
   "role": "owner",
   "expertise": [
-    "Business And Finance",
+    "Business & Finance",
     "Community Services",
     "Communications",
     "Environment",

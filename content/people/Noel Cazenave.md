@@ -10,7 +10,7 @@
   "role": "Professor of Sociology",
   "expertise": [
     "Criminal Justice",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Politics"
   ],
   "keywords": [

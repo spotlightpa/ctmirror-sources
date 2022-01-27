@@ -11,7 +11,7 @@
   "expertise": [
     "Civil Rights & Equality",
     "Community Services",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Education",
     "Immigration",
     "State Government - Legislative",

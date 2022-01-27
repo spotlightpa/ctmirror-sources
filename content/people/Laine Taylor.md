@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "Medical Director",
   "expertise": [
-    "Health And Medicine",
+    "Health & Medicine",
     "Psychology"
   ],
   "keywords": [

@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "President & CEO",
   "expertise": [
-    "Health And Medicine",
+    "Health & Medicine",
     "Psychology",
     "Science",
     "Wellness"

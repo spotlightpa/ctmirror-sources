@@ -11,23 +11,23 @@
   "expertise": [
     "Civil Rights & Equality",
     "Community Services",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Education",
     "Environment",
-    "Gender And Sexuality",
-    "Health And Medicine",
+    "Gender & Sexuality",
+    "Health & Medicine",
     "Psychology",
     "Science",
     "Small Business",
     "Wellness",
-    "Travel And Tourism",
+    "Travel & Tourism",
     "Technology",
     "Politics",
     "Municipal Government",
     "Labor",
     "Immigration",
     "Arts, Entertainment & Culture",
-    "Business And Finance"
+    "Business & Finance"
   ],
   "keywords": [
     "Public Health",

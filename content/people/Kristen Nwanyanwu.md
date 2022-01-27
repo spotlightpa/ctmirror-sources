@@ -9,7 +9,7 @@
   "pronoun": "She/her/hers",
   "role": "Assistant Professor of Ophthalmology and Visual Science",
   "expertise": [
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [
     "medicine",

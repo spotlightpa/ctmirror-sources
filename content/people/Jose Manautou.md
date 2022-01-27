@@ -9,7 +9,7 @@
   "pronoun": "He",
   "role": "Professor of Toxicology and Department Chair of Pharmaceutical Sciences sciences",
   "expertise": [
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [
     "pharmacy",

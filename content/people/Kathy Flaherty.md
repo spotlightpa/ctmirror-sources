@@ -10,7 +10,7 @@
   "role": "Executive Director",
   "expertise": [
     "Civil Rights & Equality",
-    "Health And Medicine",
+    "Health & Medicine",
     "Community Services",
     "Law",
     "Sports",

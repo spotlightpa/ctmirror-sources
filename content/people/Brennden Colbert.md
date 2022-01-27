@@ -12,7 +12,7 @@
     "Arts, Entertainment & Culture",
     "Civil Rights & Equality",
     "Communications",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Politics",
     "Wellness",
     "Community Services",

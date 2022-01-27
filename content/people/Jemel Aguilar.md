@@ -9,11 +9,11 @@
   "pronoun": "he him",
   "role": "Associate Professor",
   "expertise": [
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Criminal Justice",
-    "Gender And Sexuality",
+    "Gender & Sexuality",
     "Sociology",
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [
     "Person living with a chronic illness",

@@ -10,7 +10,7 @@
   "role": "Professor of Pharmacy Practice /  Asst. Dean  - Public Policy",
   "expertise": [
     "Education",
-    "Health And Medicine",
+    "Health & Medicine",
     "State Government - Executive",
     "Wellness"
   ],

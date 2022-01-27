@@ -9,7 +9,7 @@
   "pronoun": "He/His",
   "role": "Deputy Director",
   "expertise": [
-    "Health And Medicine",
+    "Health & Medicine",
     "Law"
   ],
   "keywords": [

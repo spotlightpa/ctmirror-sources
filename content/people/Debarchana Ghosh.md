@@ -11,10 +11,10 @@
   "expertise": [
     "Science",
     "Sociology",
-    "Health And Medicine",
-    "Gender And Sexuality",
+    "Health & Medicine",
+    "Gender & Sexuality",
     "Environment",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Community Services"
   ],
   "keywords": [

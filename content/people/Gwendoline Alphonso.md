@@ -10,8 +10,8 @@
   "role": "Associate Professor of Politics and American Studies",
   "expertise": [
     "Civil Rights & Equality",
-    "Diversity And Inclusion",
-    "Gender And Sexuality",
+    "Diversity & Inclusion",
+    "Gender & Sexuality",
     "History",
     "Politics"
   ],

@@ -12,7 +12,7 @@
     "Psychology",
     "Education",
     "Wellness",
-    "Health And Medicine",
+    "Health & Medicine",
     "Criminal Justice"
   ],
   "keywords": [

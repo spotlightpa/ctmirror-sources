@@ -9,7 +9,7 @@
   "pronoun": "She/her",
   "role": "Director of Health",
   "expertise": [
-    "Health And Medicine",
+    "Health & Medicine",
     "Municipal Government"
   ],
   "keywords": [

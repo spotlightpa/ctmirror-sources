@@ -11,7 +11,7 @@
   "expertise": [
     "Community Services",
     "Criminal Justice",
-    "Health And Medicine",
+    "Health & Medicine",
     "Municipal Government",
     "State Government - Executive",
     "Wellness"

@@ -10,8 +10,8 @@
   "role": "Associate Vice President of Programs and Advocacy",
   "expertise": [
     "Civil Rights & Equality",
-    "Diversity And Inclusion",
-    "Gender And Sexuality",
+    "Diversity & Inclusion",
+    "Gender & Sexuality",
     "Psychology",
     "Religion",
     "Wellness"

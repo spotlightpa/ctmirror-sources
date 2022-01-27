@@ -10,7 +10,7 @@
   "role": "Policy Director",
   "expertise": [
     "Criminal Justice",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Law",
     "Politics"
   ],

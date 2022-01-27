@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "Physician in Chief",
   "expertise": [
-    "Health And Medicine",
+    "Health & Medicine",
     "Science"
   ],
   "keywords": [],

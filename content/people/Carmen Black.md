@@ -9,8 +9,8 @@
   "pronoun": "She/her/hers",
   "role": "Assistant professor of psychiatry",
   "expertise": [
-    "Health And Medicine",
-    "Diversity And Inclusion",
+    "Health & Medicine",
+    "Diversity & Inclusion",
     "Psychology"
   ],
   "keywords": [

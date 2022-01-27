@@ -15,7 +15,7 @@
     "History",
     "Politics",
     "Sports",
-    "Travel And Tourism",
+    "Travel & Tourism",
     "Civil Rights & Equality"
   ],
   "keywords": [

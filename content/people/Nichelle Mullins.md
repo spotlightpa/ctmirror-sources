@@ -11,9 +11,9 @@
   "expertise": [
     "Civil Rights & Equality",
     "Criminal Justice",
-    "Diversity And Inclusion",
-    "Gender And Sexuality",
-    "Health And Medicine",
+    "Diversity & Inclusion",
+    "Gender & Sexuality",
+    "Health & Medicine",
     "Politics",
     "Religion",
     "State Government - Legislative"

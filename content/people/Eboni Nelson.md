@@ -9,7 +9,7 @@
   "pronoun": "she/her/hers",
   "role": "Dean & Professor of Law",
   "expertise": [
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Education",
     "Law"
   ],

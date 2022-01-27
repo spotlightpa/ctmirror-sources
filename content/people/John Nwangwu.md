@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "Professor",
   "expertise": [
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [],
   "email": "am53YW5nd3VAaG90bWFpbC5jb20=",

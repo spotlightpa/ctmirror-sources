@@ -9,7 +9,7 @@
   "pronoun": "he/him",
   "role": "Assistant Director, Career Development & Vice Chair (of town council)",
   "expertise": [
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Law",
     "Municipal Government",
     "Politics",

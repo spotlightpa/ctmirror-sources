@@ -10,7 +10,7 @@
   "role": "Communications Director",
   "expertise": [
     "Education",
-    "Health And Medicine",
+    "Health & Medicine",
     "Sports",
     "Labor"
   ],

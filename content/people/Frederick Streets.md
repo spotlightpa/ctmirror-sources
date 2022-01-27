@@ -14,7 +14,7 @@
     "Religion",
     "Wellness",
     "Sociology",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Community Services",
     "Civil Rights & Equality"
   ],

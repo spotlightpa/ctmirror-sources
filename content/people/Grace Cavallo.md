@@ -9,9 +9,9 @@
   "pronoun": "She",
   "role": "Chief Program Officer",
   "expertise": [
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Criminal Justice",
-    "Gender And Sexuality",
+    "Gender & Sexuality",
     "Psychology",
     "Wellness"
   ],

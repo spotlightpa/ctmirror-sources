@@ -10,10 +10,10 @@
   "role": "Director of Implementation",
   "expertise": [
     "Civil Rights & Equality",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Economy / Economics",
     "Education",
-    "Health And Medicine",
+    "Health & Medicine",
     "Psychology",
     "Science",
     "Sociology"

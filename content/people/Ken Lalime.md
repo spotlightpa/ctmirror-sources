@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "CEO",
   "expertise": [
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [],
   "email": "a2xhbGltZUBjaGNhY3Qub3Jn",

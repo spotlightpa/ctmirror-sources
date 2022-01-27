@@ -9,7 +9,7 @@
   "pronoun": "she/her",
   "role": "C.N.H Long Professor of Medicine, Public Health, and Management",
   "expertise": [
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [
     "health equity\ncommunity engagement"

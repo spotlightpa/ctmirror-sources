@@ -10,7 +10,7 @@
   "role": "President & CEO",
   "expertise": [
     "Community Services",
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [],
   "email": "Z3JvZHJpZ3VlekB0aGV2aWxsYWdlLm9yZw==",

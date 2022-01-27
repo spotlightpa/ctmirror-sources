@@ -9,9 +9,9 @@
   "pronoun": "",
   "role": "Assistant Professor and Public Health Graduate Program Director",
   "expertise": [
-    "Diversity And Inclusion",
-    "Health And Medicine",
-    "Gender And Sexuality",
+    "Diversity & Inclusion",
+    "Health & Medicine",
+    "Gender & Sexuality",
     "Sociology"
   ],
   "keywords": [

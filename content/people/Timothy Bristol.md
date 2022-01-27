@@ -15,7 +15,7 @@
     "State Government - Legislative",
     "History",
     "Education",
-    "Business And Finance"
+    "Business & Finance"
   ],
   "keywords": [
     "Political Science",

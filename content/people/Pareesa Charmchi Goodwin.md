@@ -10,7 +10,7 @@
   "role": "Executive Director",
   "expertise": [
     "Sociology",
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [
     "Health Policy",

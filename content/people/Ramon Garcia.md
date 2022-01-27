@@ -12,7 +12,7 @@
     "Community Services",
     "Civil Rights & Equality",
     "Criminal Justice",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Education",
     "Arts, Entertainment & Culture",
     "History",

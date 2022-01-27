@@ -9,7 +9,7 @@
   "pronoun": "she/her/hers",
   "role": "Infectious Disease Doctor/Researcher; Assitant Professor of Medicine",
   "expertise": [
-    "Health And Medicine"
+    "Health & Medicine"
   ],
   "keywords": [
     "Infectious diseases",

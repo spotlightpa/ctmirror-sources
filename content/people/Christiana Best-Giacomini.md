@@ -11,7 +11,7 @@
   "expertise": [
     "Civil Rights & Equality",
     "Immigration",
-    "Diversity And Inclusion"
+    "Diversity & Inclusion"
   ],
   "keywords": [
     "Black experiences",

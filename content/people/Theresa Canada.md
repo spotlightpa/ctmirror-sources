@@ -10,7 +10,7 @@
   "role": "Professor, Education and Educational Psychology",
   "expertise": [
     "Civil Rights & Equality",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Education",
     "Psychology"
   ],

@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "Director",
   "expertise": [
-    "Health And Medicine",
+    "Health & Medicine",
     "State Government - Executive",
     "State Government - Legislative"
   ],

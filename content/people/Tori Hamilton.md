@@ -10,7 +10,7 @@
   "role": "Bank On CT Program Coordinator, CT Money School Program Manager",
   "expertise": [
     "Community Services",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Economy / Economics"
   ],
   "keywords": [

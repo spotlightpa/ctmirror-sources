@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "Board Chair",
   "expertise": [
-    "Business And Finance",
+    "Business & Finance",
     "Civil Rights & Equality",
     "Criminal Justice",
     "Energy"

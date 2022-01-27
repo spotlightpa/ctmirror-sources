@@ -9,8 +9,8 @@
   "pronoun": "she/her/hers",
   "role": "MD/PhD Candidate",
   "expertise": [
-    "Diversity And Inclusion",
-    "Health And Medicine",
+    "Diversity & Inclusion",
+    "Health & Medicine",
     "Immigration",
     "Science",
     "Sociology"

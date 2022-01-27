@@ -9,7 +9,7 @@
   "pronoun": "She/Her",
   "role": "Financial Coach",
   "expertise": [
-    "Business And Finance",
+    "Business & Finance",
     "Economy / Economics"
   ],
   "keywords": [

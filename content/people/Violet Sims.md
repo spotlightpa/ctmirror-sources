@@ -9,7 +9,7 @@
   "pronoun": "she/her/hers",
   "role": "Co-Owner, Lead Consultant",
   "expertise": [
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Education"
   ],
   "keywords": [

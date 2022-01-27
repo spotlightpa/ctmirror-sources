@@ -10,7 +10,7 @@
   "role": "Chief Impact Officer",
   "expertise": [
     "Economy / Economics",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Education",
     "Small Business"
   ],

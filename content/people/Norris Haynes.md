@@ -11,7 +11,7 @@
   "expertise": [
     "Education",
     "Psychology",
-    "Diversity And Inclusion"
+    "Diversity & Inclusion"
   ],
   "keywords": [
     "Social and Emotional Learning; School Culture and Climate; Parent Involvement; Motivation and Learning; Achievement Gap; School Leadership; Research; Testing and Assessment; Program Evaluation"

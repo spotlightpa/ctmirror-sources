@@ -13,7 +13,7 @@
     "State Government - Legislative",
     "State Government - Executive",
     "Politics",
-    "Business And Finance",
+    "Business & Finance",
     "Construction",
     "Criminal Justice",
     "Law",

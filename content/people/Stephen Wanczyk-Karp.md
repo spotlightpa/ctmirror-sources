@@ -9,7 +9,7 @@
   "pronoun": "He, His, Him",
   "role": "Executive Director",
   "expertise": [
-    "Health And Medicine",
+    "Health & Medicine",
     "Sociology"
   ],
   "keywords": [

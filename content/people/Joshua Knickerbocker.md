@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "Assistant Professor",
   "expertise": [
-    "Health And Medicine",
+    "Health & Medicine",
     "Education"
   ],
   "keywords": [

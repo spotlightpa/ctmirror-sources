@@ -12,7 +12,7 @@
     "State Government - Legislative",
     "Municipal Government",
     "Economy / Economics",
-    "Diversity And Inclusion",
+    "Diversity & Inclusion",
     "Community Services"
   ],
   "keywords": [

@@ -10,7 +10,7 @@
   "role": "Associate Dean and Associate Professor, School of Education and Human Development",
   "expertise": [
     "Education",
-    "Diversity And Inclusion"
+    "Diversity & Inclusion"
   ],
   "keywords": [
     "Social Justice Eduction",

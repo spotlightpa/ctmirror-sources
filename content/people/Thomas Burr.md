@@ -11,7 +11,7 @@
   "expertise": [
     "Communications",
     "Community Services",
-    "Health And Medicine",
+    "Health & Medicine",
     "Psychology",
     "Wellness"
   ],
