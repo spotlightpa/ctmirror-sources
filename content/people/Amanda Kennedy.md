@@ -11,7 +11,7 @@
   "expertise": [
     "State Government - Legislative",
     "Municipal Government",
-    "Economy / Economics",
+    "Economics",
     "Diversity & Inclusion",
     "Community Services"
   ],

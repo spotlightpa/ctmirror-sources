@@ -9,7 +9,7 @@
   "pronoun": "He, him.",
   "role": "Communications Director",
   "expertise": [
-    "Economy / Economics",
+    "Economics",
     "Education",
     "Labor",
     "Politics",

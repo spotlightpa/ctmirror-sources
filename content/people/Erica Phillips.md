@@ -9,7 +9,7 @@
   "pronoun": "she/he",
   "role": "Chief Impact Officer",
   "expertise": [
-    "Economy / Economics",
+    "Economics",
     "Diversity & Inclusion",
     "Education",
     "Small Business"

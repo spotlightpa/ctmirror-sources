@@ -11,7 +11,7 @@
   "expertise": [
     "Civil Rights & Equality",
     "Diversity & Inclusion",
-    "Economy / Economics",
+    "Economics",
     "Education",
     "Health & Medicine",
     "Psychology",

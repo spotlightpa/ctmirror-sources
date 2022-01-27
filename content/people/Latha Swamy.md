@@ -12,7 +12,7 @@
     "Agriculture",
     "Civil Rights & Equality",
     "Diversity & Inclusion",
-    "Economy / Economics",
+    "Economics",
     "Environment",
     "Health & Medicine",
     "History",

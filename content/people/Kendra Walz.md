@@ -10,7 +10,7 @@
   "role": "Financial Coach",
   "expertise": [
     "Business & Finance",
-    "Economy / Economics"
+    "Economics"
   ],
   "keywords": [
     "economy",

@@ -12,7 +12,7 @@
     "Civil Rights & Equality",
     "Criminal Justice",
     "Education",
-    "Economy / Economics",
+    "Economics",
     "History",
     "Municipal Government",
     "Politics",

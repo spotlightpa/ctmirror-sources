@@ -11,7 +11,7 @@
   "expertise": [
     "Education",
     "Politics",
-    "Economy / Economics"
+    "Economics"
   ],
   "keywords": [
     "research",

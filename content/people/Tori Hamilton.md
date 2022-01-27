@@ -11,7 +11,7 @@
   "expertise": [
     "Community Services",
     "Diversity & Inclusion",
-    "Economy / Economics"
+    "Economics"
   ],
   "keywords": [
     "Social and economic inclusion justice advocate"

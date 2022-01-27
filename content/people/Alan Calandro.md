@@ -9,7 +9,7 @@
   "pronoun": "",
   "role": "Owner",
   "expertise": [
-    "Economy / Economics",
+    "Economics",
     "State Government - Legislative",
     "State Government - Executive",
     "Politics",

@@ -16,7 +16,7 @@
     "Municipal Government",
     "Politics",
     "Small Business",
-    "Economy / Economics",
+    "Economics",
     "Agriculture"
   ],
   "keywords": [
