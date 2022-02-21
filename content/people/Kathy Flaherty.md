@@ -29,7 +29,9 @@
   "twitter": "ConnConnection",
   "instagram": "",
   "linkedin": "",
-  "location": "Newington",
+  "location": [
+    "Newington"
+  ],
   "phone": "8606662200",
   "bio": "I am a lifelong (except for college and law school) resident of Newington, CT. I've been a legal aid lawyer for almost 25 years. I'm a person living in recovery from a mental health diagnosis and a long Covid survivor. I can speak on disability issues. I can connect you to bunches of other people.",
   "layout": "person"

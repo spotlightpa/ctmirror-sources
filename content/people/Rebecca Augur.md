@@ -25,7 +25,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Wallingford",
+  "location": [
+    "Wallingford"
+  ],
   "phone": "8606527515",
   "bio": "Ms. Augur is an AICP certified land use planner with over 15 years of experience in planning in CT. She serves as the current President of the CT Chapter of the American Planning Association, and is the Director of Planning and Land Use Services for the Town of Glastonbury. She spent more than a decade as a consulting planner and previously worked in planning for the Town of Cheshire and the Capitol Region Council of governments.",
   "layout": "person"

@@ -26,7 +26,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Stratford",
+  "location": [
+    "Stratford"
+  ],
   "phone": "2036879839",
   "bio": "",
   "layout": "person"

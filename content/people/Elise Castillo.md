@@ -19,7 +19,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Hartford",
+  "location": [
+    "Hartford"
+  ],
   "phone": "",
   "bio": "",
   "layout": "person"

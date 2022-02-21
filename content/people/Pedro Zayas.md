@@ -22,7 +22,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Newington",
+  "location": [
+    "Newington"
+  ],
   "phone": "8608302478",
   "bio": "",
   "layout": "person"

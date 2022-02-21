@@ -19,7 +19,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Milford",
+  "location": [
+    "Milford"
+  ],
   "phone": "2033854017",
   "bio": "I am an Urban Planner and have eighteen years of experience in City and Regional Planning.",
   "layout": "person"

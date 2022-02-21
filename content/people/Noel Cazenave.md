@@ -27,7 +27,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Hartford",
+  "location": [
+    "Hartford"
+  ],
   "phone": "8605489799",
   "bio": "See UConn sociology webpage",
   "layout": "person"

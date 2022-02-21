@@ -21,7 +21,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Hartford",
+  "location": [
+    "Hartford"
+  ],
   "phone": "8609066660",
   "bio": "",
   "layout": "person"

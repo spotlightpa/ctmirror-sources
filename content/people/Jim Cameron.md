@@ -21,7 +21,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Darien",
+  "location": [
+    "Darien"
+  ],
   "phone": "2039525758",
   "bio": "",
   "layout": "person"

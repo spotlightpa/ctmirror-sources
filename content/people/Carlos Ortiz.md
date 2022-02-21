@@ -28,7 +28,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "New Haven",
+  "location": [
+    "New Haven"
+  ],
   "phone": "",
   "bio": "Professional Barber in New Haven with over 15 years of experience. Clients entail civil servants, political figures, community residents, local celebrities, business and health professionals, students, etc.",
   "layout": "person"

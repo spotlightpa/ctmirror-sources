@@ -21,7 +21,7 @@
   "twitter": "cthealthnotes",
   "instagram": "",
   "linkedin": "",
-  "location": "",
+  "location": [],
   "phone": "8609307181",
   "bio": "health policy analyst, consumer advocate",
   "layout": "person"

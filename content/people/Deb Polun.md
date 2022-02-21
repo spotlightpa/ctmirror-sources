@@ -30,7 +30,9 @@
   "twitter": "debpolun",
   "instagram": "",
   "linkedin": "",
-  "location": "West Hartford",
+  "location": [
+    "West Hartford"
+  ],
   "phone": "8608787760",
   "bio": "Deb Polun is the Executive Director of the Connecticut Association for Community Action (CAFCA), the state association that works with CT's nine Community Action Agencies (CAAs). In this role, Ms. Polun works in partnership with the CAAs, other community-based organizations, and policymakers to address the causes and conditions of poverty and help low-income people move towards self-sufficiency.\n\nDeb has worked on policy issues impacting low-income people in Connecticut for over twenty years. Prior to joining CAFCA, she was privileged to work for the Senate Majority Office at the CT General Assembly, the CT Commission on Aging, and the Community Health Center Association of CT. She holds a Master\u2019s degree in Social Psychology from the University of Connecticut and a Bachelor of Science degree in Psychology and Sociology from Tulane University.\n\nDeb also serves her community on the West Hartford Board of Education.",
   "layout": "person"

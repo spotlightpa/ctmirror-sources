@@ -30,7 +30,7 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "",
+  "location": [],
   "phone": "8608102571",
   "bio": "My name is Kendra Walz. I am currently a financial coach at Connecticut Association for Human Services, and I am also an assistant property manager at a low income housing community, so I work closely with the low income population of Connecticut. I graduated in May 2020 with a bachelor's degree in economics from Eastern Connecticut State University.",
   "layout": "person"

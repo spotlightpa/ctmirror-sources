@@ -30,7 +30,7 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "dr-violet-jim\u00e9nez-sims-03a782b4",
-  "location": "",
+  "location": [],
   "phone": "8609449306",
   "bio": "Dr. Sims has extensive experience in teaching and leadership at every level of education \u2013 from Pre-K through university settings. She has dedicated both her professional career and community involvement to diversity, equity, inclusion, and social justice initiatives. An expert in both research and practice, her research interests include dual language education models, bilingualism and biliteracy, and culturally and linguistically responsive spaces.",
   "layout": "person"

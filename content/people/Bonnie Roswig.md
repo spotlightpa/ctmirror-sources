@@ -22,7 +22,7 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "",
+  "location": [],
   "phone": "8605660836",
   "bio": "Director, Disability Rights Project of the Center for Children's Advocacy; Primary focus is protecting the rights of vulnerable children: disabled, financially vulnerable, needing access to basic needs (food, shelter, utilities, medical care, etc.). \nRecipient of U.S. Attorney Award and the Connecticut Law Tribute Giant Slayer Award for work related to the American's with Disabilities Act.\nGraduate of the Antioch School of Law.",
   "layout": "person"

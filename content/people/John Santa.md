@@ -24,7 +24,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Southport",
+  "location": [
+    "Southport"
+  ],
   "phone": "2032180918",
   "bio": "Former Family Firm C.E.O. ; Currently serving as an independent director on three private companies ;25 year community activist in the area of Criminal Justice reform; 50+ year marriage ' two children ; one daughter-in-law ; two grand girls ( 11 & 14); Living in Southport , Ct. ; active in family genealogical research.",
   "layout": "person"

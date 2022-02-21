@@ -22,7 +22,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Newtown",
+  "location": [
+    "Newtown"
+  ],
   "phone": "2039369447",
   "bio": "",
   "layout": "person"

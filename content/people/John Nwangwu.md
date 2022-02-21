@@ -21,7 +21,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Woodbridge",
+  "location": [
+    "Woodbridge"
+  ],
   "phone": "2015304102",
   "bio": "",
   "layout": "person"

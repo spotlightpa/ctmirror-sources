@@ -36,7 +36,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Hartford",
+  "location": [
+    "Hartford"
+  ],
   "phone": "8606851596",
   "bio": "",
   "layout": "person"

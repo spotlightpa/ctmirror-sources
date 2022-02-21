@@ -19,7 +19,7 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "",
+  "location": [],
   "phone": "2036270583",
   "bio": "",
   "layout": "person"

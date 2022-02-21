@@ -23,7 +23,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Hartford",
+  "location": [
+    "Hartford"
+  ],
   "phone": "",
   "bio": "I am a former housing counselor, and financial literacy trainer.  My work over the past 17 years has been focused on promoting financial capability programming in low to moderate income, and underserved communities.",
   "layout": "person"

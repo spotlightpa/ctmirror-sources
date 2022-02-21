@@ -29,7 +29,7 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "",
+  "location": [],
   "phone": "",
   "bio": "",
   "layout": "person"

@@ -20,7 +20,7 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "",
+  "location": [],
   "phone": "8605459491",
   "bio": "",
   "layout": "person"

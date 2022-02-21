@@ -27,7 +27,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Manchester",
+  "location": [
+    "Manchester"
+  ],
   "phone": "860-667-6388 x 5",
   "bio": "I have worked in the greater Hartford area in different capacities as a Case Manager, Community Educator, Academic Advisor, Advocate and Program Coordinator since 2008.",
   "layout": "person"

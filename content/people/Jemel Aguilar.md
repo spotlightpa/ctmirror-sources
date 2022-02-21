@@ -31,7 +31,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "jemel-aguilar-00ba68b8",
-  "location": "Newington",
+  "location": [
+    "Newington"
+  ],
   "phone": "2033925363",
   "bio": "I have over 30 years experience providing case management and clinical social work services to people with HIV, those living with ME/CFS, and others with chronic illnesses. I also conduct research in these areas as well as teaching and engage in research related to oppression in American Society.",
   "layout": "person"

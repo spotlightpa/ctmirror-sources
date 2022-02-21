@@ -26,7 +26,9 @@
   "twitter": "",
   "instagram": "",
   "linkedin": "",
-  "location": "Fairfield",
+  "location": [
+    "Fairfield"
+  ],
   "phone": "",
   "bio": "",
   "layout": "person"

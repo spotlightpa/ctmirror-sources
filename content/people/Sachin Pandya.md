@@ -26,7 +26,7 @@
   "twitter": "sachinspandya",
   "instagram": "",
   "linkedin": "",
-  "location": "",
+  "location": [],
   "phone": "8605705169",
   "bio": "",
   "layout": "person"
