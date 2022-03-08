@@ -1,30 +1,30 @@
 {
-  "title": "Jim Cameron",
-  "linktitle": "Jim Cameron",
-  "first": "Jim",
-  "middle": "",
-  "last": "Cameron",
-  "pronunciation": "",
   "honorific": "Mr",
+  "facebook": "",
   "pronoun": "",
-  "role": "",
+  "bio": "Commuter Action Grp - Founder\r\nCT Rail Commuter Council - Past Chmn\r\nColumnist - Talking Transportation since 2005\r\nDarien RTM / Board of Ethics\r\nDarien TV79 - Program Director\r\n",
+  "layout": "person",
+  "keywords": [],
+  "phone": "2039525758",
+  "first": "Jim",
   "expertise": [
     "Transportation"
   ],
-  "keywords": [],
-  "email": "amltQG1lZGlhdHJhaW5lci50dg==",
+  "instagram": "",
+  "twitter": "",
+  "middle": "",
+  "pronunciation": "",
+  "location": [
+    "Darien"
+  ],
+  "role": "",
+  "last": "Cameron",
+  "title": "Jim Cameron",
   "images": [
     "/img/uploads/Jim Cameron  2021.JPG"
   ],
   "website": "https://ji503.wixsite.com/commuteractiongroup",
-  "facebook": "",
-  "twitter": "",
-  "instagram": "",
+  "email": "amltQG1lZGlhdHJhaW5lci50dg==",
   "linkedin": "",
-  "location": [
-    "Darien"
-  ],
-  "phone": "2039525758",
-  "bio": "",
-  "layout": "person"
+  "linktitle": "Jim Cameron"
 }
