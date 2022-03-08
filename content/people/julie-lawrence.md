@@ -1,5 +1,8 @@
 {
   "layout": "person",
+  "keywords": [
+    "diversity"
+  ],
   "phone": "(203) 365-7572",
   "first": "Julie",
   "expertise": [
