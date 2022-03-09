@@ -16,6 +16,9 @@
   "role": "Senior Legal Counsel of BIC Corporation",
   "last": "Bowie",
   "title": "Alan Bowie",
+  "images": [
+    "/img/uploads/bowie.jpg"
+  ],
   "email": "Ym93aWUuYWxhbkBnbWFpbC5jb20=",
   "linktitle": "Alan Bowie"
 }
