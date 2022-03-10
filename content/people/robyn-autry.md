@@ -21,6 +21,9 @@
   "role": "Associate Professor of Sociology at Wesleyan University",
   "last": "Autry",
   "title": "Robyn Autry",
+  "images": [
+    "/img/uploads/robyn.jpeg"
+  ],
   "email": "cmF1dHJ5QHdlc2xleWFuLmVkdQ==",
   "linktitle": "Robyn Autry"
 }
