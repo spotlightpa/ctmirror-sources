@@ -21,7 +21,7 @@
   "last": "S",
   "title": "Rabera S",
   "website": "https://universalhealthct.org/about-us/staff-and-board",
-  "email": "c3JhYmVlcmFAdW5pdmVyc2FsaGVhbHRoY3Qub3Jn",
+  "email": "c3JhYmVyYUB1bml2ZXJzYWxoZWFsdGhjdC5vcmc=",
   "linkedin": "https://www.linkedin.com/in/sharonrabera0417",
   "linktitle": "Rabera"
 }
