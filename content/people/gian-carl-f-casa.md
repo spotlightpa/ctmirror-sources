@@ -18,7 +18,7 @@
     "State government - executive",
     "Community services"
   ],
-  "twitter": " http://www.twitter.com/ctnpalliance",
+  "twitter": " ctnpalliance",
   "location": [
     "New Haven"
   ],
@@ -28,7 +28,7 @@
   "images": [
     "/img/uploads/headshot-1-.jpg"
   ],
-  "website": " http://www.twitter.com/ctnpalliance",
+  "website": "",
   "email": "Z2Nhc2FAY3Rub25wcm9maXRhbGxpYW5jZS5vcmc=",
   "linktitle": "Gian-Carl F Casa"
 }
