@@ -27,6 +27,9 @@
     "Small business"
   ],
   "pronunciation": "Chris Knopf (silent K and P)",
+  "location": [
+    "Avon, CT"
+  ],
   "last": "Knopf",
   "title": "Chris Knopf",
   "images": [
