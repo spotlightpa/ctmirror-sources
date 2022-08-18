@@ -15,6 +15,7 @@
   "expertise": [
     "Agriculture",
     "Civil Rights & Equality",
+    "Higher Education",
     "Environment",
     "Law"
   ],
