@@ -1,35 +1,36 @@
 {
-  "title": "Gerald Torres",
-  "linktitle": "Gerald Torres",
-  "first": "Gerald",
-  "middle": "",
-  "last": "Torres",
-  "pronunciation": "",
   "honorific": "Prof.",
+  "facebook": "",
   "pronoun": "he/his",
-  "role": "Professor",
+  "bio": "",
+  "layout": "person",
+  "keywords": [
+    "Law",
+    "environmental justice",
+    "civil rights",
+    "higher education"
+  ],
+  "phone": "",
+  "first": "Gerald",
   "expertise": [
     "Agriculture",
     "Civil Rights & Equality",
     "Environment",
     "Law"
   ],
-  "keywords": [
-    "Law",
-    "environmental justice",
-    "civil rights"
-  ],
-  "email": "Z2VyYWxkLnRvcnJlc0B5YWxlLmVkdQ==",
-  "images": [],
-  "website": "",
-  "facebook": "",
-  "twitter": "",
   "instagram": "",
-  "linkedin": "",
+  "twitter": "",
+  "middle": "",
+  "pronunciation": "",
   "location": [
     "Fairfield"
   ],
-  "phone": "",
-  "bio": "",
-  "layout": "person"
+  "role": "Professor",
+  "last": "Torres",
+  "title": "Gerald Torres",
+  "images": [],
+  "website": "",
+  "email": "Z2VyYWxkLnRvcnJlc0B5YWxlLmVkdQ==",
+  "linkedin": "",
+  "linktitle": "Gerald Torres"
 }
