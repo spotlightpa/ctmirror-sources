@@ -15,6 +15,9 @@
   ],
   "twitter": "msgohara ",
   "pronunciation": "MEE-ree-um Go-HAH-rah",
+  "location": [
+    "New Haven, CT"
+  ],
   "role": "Clinical Professor of Law",
   "last": "Gohara",
   "title": "Miriam Gohara",
