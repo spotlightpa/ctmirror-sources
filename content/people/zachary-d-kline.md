@@ -1,4 +1,5 @@
 {
+  "honorific": "Prof",
   "pronoun": "he/him",
   "bio": "Zachary D. Kline enjoys applying novel methodological techniques to complex data, but his true passion lies in contributing knowledge that can be used to mitigate inequality. Zachary's research examines employer and government programs that ask individuals and families to make choices amongst services provided in the form of \"products\" through participation in a market. He examines defined contribution pension plans, health insurance developments (including high deductible plans), section 8 housing, and \"choice\"-based education. Zack is a social stratification researcher whose substantive interests intersect with public policy, economic sociology, and urban sociology. Methodologically, he employs quantitative and computational techniques.",
   "layout": "person",
