@@ -14,12 +14,12 @@
     "Diversity and inclusion",
     "Politics"
   ],
-  "role": "Chief Diversity Officer at Sacred Heart University",
+  "role": "",
   "last": "Lawrence ",
   "title": "Julie Lawrence ",
   "images": [
     "/img/uploads/44c5c0de-7bc6-434a-a89f-63fc28f90775.jpeg"
   ],
-  "email": "TGF3cmVuY2VqMkBzYWNyZWRoZWFydC5lZHU=",
+  "email": "",
   "linktitle": "Julie Lawrence"
 }
