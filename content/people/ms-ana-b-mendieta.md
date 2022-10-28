@@ -23,7 +23,7 @@
   "last": "Mendieta",
   "title": "Ms. Ana B. Mendieta",
   "images": [
-    "https://airtable.com/shrsJLHNp1TTfRB6D/tblarWSm0n0sVr9B3/viw8iUKs1jYxYvhC2/rec5YpyaWVAlvXawM/fldPeZJ8EZi7Ol7tL/atthMvdhEc55WNBe8"
+    "/img/uploads/atthMvdhEc55WNBe8.jpg"
   ],
   "email": "YW5hbW5kdEBnbWFpbC5jb20=",
   "linkedin": "https://www.linkedin.com/in/ana-b-mendieta-92a4ab7a/",

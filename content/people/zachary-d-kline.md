@@ -26,7 +26,7 @@
   "last": "Kline",
   "title": "Zachary D. Kline",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/d02645efeb870eb586010e25085923ef/9e88f1bc"
+    "/img/uploads/9e88f1bc.jpg"
   ],
   "email": "emFjaGFyeS5kLmtsaW5lQHVjb25uLmVkdQ==",
   "linktitle": "Zachary Kline"

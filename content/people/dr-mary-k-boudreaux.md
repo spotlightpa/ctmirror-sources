@@ -27,7 +27,7 @@
   "last": "Boudreaux",
   "title": "Dr. Mary K. Boudreaux",
   "images": [
-    "https://v5.airtableusercontent.com/v1/10/10/1668038400000/nvk2IEjirGoQe2P1oDWzbQ/UcDZHWqfd3E6s3cXnDe2hw68_K1sal8CP9KVy6qf0WpGoUtnWSwye48KyBhisQX9QN4ELVVfAqw7POPNp-Afhg/8gfV1_ygPrXPqb3l3hKUeIWkKjhYETlbAcY7c2Ia28c"
+    "/img/uploads/8gfV1_ygPrXPqb3l3hKUeIWkKjhYETlbAcY7c2Ia28c.jpg"
   ],
   "email": "Ym91ZHJlYXV4bTFAc291dGhlcm5jdC5lZHU=",
   "linktitle": "Mary Boudreaux"

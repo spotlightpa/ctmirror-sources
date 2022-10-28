@@ -22,7 +22,7 @@
   "last": "Sharma",
   "title": "Vivek Sharma",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/749114683013e5f899d6ebfc06c828a8/52de6620"
+    "/img/uploads/52de6620.jpg"
   ],
   "website": "https://www.hartford.edu/directory/barney/sharma-vivek.aspx",
   "email": "dnNoYXJtYUBoYXJ0Zm9yZC5lZHU=",

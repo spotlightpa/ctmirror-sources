@@ -24,7 +24,7 @@
   "last": "Embrick",
   "title": "David G. Embrick ",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/35f66c38922e86dc73708faff66a3b9e/a465682c"
+    "/img/uploads/a465682c.jpg"
   ],
   "email": "ZGF2aWQuZW1icmlja0B1Y29ubi5lZHU=",
   "linktitle": "David Embrick"

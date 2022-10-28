@@ -25,7 +25,7 @@
   "last": "Hosley",
   "title": "William Hosley",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/40513cfcb7e2058f68501bf61d6a50f7/4943094c"
+    "/img/uploads/4943094c.jpg"
   ],
   "email": "d25ob3NsZXlAc25ldC5uZXQ=",
   "linktitle": "William Hosley"

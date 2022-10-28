@@ -33,7 +33,7 @@
   "last": "Thakore",
   "title": "Bhoomi K. Thakore",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/41a78fd146cb1d559e9faead9d7a8d4f/4b5a2db5"
+    "/img/uploads/4b5a2db5.jpg"
   ],
   "website": "bhoomikthakore.com",
   "email": "Ymhvb21pLnRoYWtvcmVAdWNvbm4uZWR1",

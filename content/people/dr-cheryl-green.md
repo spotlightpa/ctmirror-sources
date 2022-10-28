@@ -22,7 +22,6 @@
   "last": "Green",
   "title": "Dr. Cheryl Green",
   "images": [
-    "Green_Cheryl-1161.jpg"
   ],
   "email": "Z3JlZW5jMTZAc291dGhlcm5jdC5lZHU=",
   "linktitle": "Cheryl Green"

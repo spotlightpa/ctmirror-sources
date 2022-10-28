@@ -20,7 +20,7 @@
   "last": "Vinson",
   "title": "Kayla Vinson",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/71331d18dedf7c5f75c16e2b15d8e2a0/55734bb4"
+    "/img/uploads/55734bb4.jpg"
   ],
   "email": "a2F5bGEudmluc29uQHlhbGUuZWR1",
   "linktitle": "Kayla Vinson"

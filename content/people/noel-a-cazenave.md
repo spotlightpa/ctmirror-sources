@@ -25,7 +25,7 @@
   "last": "Cazenave",
   "title": "Noel A. Cazenave",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/e26502b944e110c4923712f3e358e64b/30e574e6"
+    "/img/uploads/30e574e6.jpg"
   ],
   "email": "bmNhemVuYXZlQGNvbWNhc3QubmV0",
   "linktitle": "Noel Cazenave"

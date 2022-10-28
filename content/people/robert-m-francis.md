@@ -23,7 +23,7 @@
   "last": "Francis ",
   "title": "Robert M Francis",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/6f2a4fbfbdbac74a86935e2cf8627cd1/2bc064f6"
+    "/img/uploads/2bc064f6.jpg"
   ],
   "email": "cm9iZXJ0LmZyYW5jaXMwMjEyQGdtYWlsLmNvbQ==",
   "linktitle": "Robert Francis"

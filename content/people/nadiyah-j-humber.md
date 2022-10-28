@@ -26,7 +26,7 @@
   "last": "Humber",
   "title": "Nadiyah J. Humber",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/1a5aef8cb5b3453608f4f3e4f8316da0/e85ed0b3"
+    "/img/uploads/e85ed0b3.jpg"
   ],
   "email": "bmFkaXlhaC5odW1iZXJAdWNvbm4uZWR1",
   "linktitle": "Nadiyah Humber"

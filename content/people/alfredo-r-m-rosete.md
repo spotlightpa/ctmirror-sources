@@ -18,7 +18,7 @@
   "last": "Rosete",
   "title": "Alfredo R.M. Rosete",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/5df6bdf2023f3943e4993dd1d43c3343/db706b06"
+    "/img/uploads/db706b06.jpg"
   ],
   "website": "https://www2.ccsu.edu/faculty/arosete",
   "email": "YXJvc2V0ZUBjY3N1LmVkdQ==",

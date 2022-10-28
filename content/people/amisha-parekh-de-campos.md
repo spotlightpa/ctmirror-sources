@@ -22,7 +22,7 @@
   "last": "Parekh De Campos",
   "title": "Amisha Parekh De Campos",
   "images": [
-    "https://dl.airtable.com/.attachmentThumbnails/dc292b910be551682e171dee9ce9822b/8fd8425e"
+    "/img/uploads/8fd8425e.jpg"
   ],
   "email": "YW1pc2hhLnBhcmVraF9kZV9jYW1wb3NAdWNvbm4uZWR1",
   "linktitle": "Amisha Parekh De Campos "
