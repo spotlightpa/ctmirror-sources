@@ -14,7 +14,7 @@
     "Diversity and inclusion",
     "Politics"
   ],
-  "role": "",
+  "role": "NA",
   "last": "Lawrence ",
   "title": "Julie Lawrence ",
   "images": [
