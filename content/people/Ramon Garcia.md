@@ -1,13 +1,12 @@
 {
-  "title": "Ramon A Garcia",
-  "linktitle": "Ramon Garcia",
-  "first": "Ramon",
-  "middle": "A",
-  "last": "Garcia",
-  "pronunciation": "",
   "honorific": "Mr.",
+  "facebook": "",
   "pronoun": "",
-  "role": "Advocate of Justice & Equality for all",
+  "bio": "",
+  "layout": "person",
+  "keywords": [],
+  "phone": "8606851596",
+  "first": "Ramon",
   "expertise": [
     "Community Services",
     "Civil Rights & Equality",
@@ -26,20 +25,21 @@
     "Technology",
     "Wellness"
   ],
-  "keywords": [],
-  "email": "ci5nYXJjaWFwY29jQGdtYWlsLmNvbQ==",
-  "images": [
-    "/img/uploads/C6E4BAB6-325D-4341-AA63-752693139941.jpeg"
-  ],
-  "website": "",
-  "facebook": "",
-  "twitter": "",
   "instagram": "",
-  "linkedin": "",
+  "twitter": "",
+  "middle": "A",
+  "pronunciation": "",
   "location": [
     "Hartford"
   ],
-  "phone": "8606851596",
-  "bio": "",
-  "layout": "person"
+  "role": "Advocate of Justice & Equality for all",
+  "last": "Garcia",
+  "title": "Ramon A Garcia",
+  "images": [
+    "/img/uploads/ramon-a-garcia.jpeg"
+  ],
+  "website": "",
+  "email": "ci5nYXJjaWFwY29jQGdtYWlsLmNvbQ==",
+  "linkedin": "",
+  "linktitle": "Ramon Garcia"
 }
