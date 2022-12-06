@@ -25,7 +25,7 @@
   "last": "Cazenave",
   "title": "Noel A. Cazenave",
   "images": [
-    "/img/uploads/30e574e6.jpg"
+    "/img/uploads/noel-cazenave.jpg"
   ],
   "email": "bmNhemVuYXZlQGNvbWNhc3QubmV0",
   "linktitle": "Noel Cazenave"
