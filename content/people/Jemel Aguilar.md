@@ -31,7 +31,7 @@
   "last": "Aguilar",
   "title": "Jemel Aguilar",
   "images": [
-    "/img/uploads/jemel-aguilar-.jpg"
+    "/img/uploads/img_0009.jpg"
   ],
   "website": "",
   "email": "YWd1aWxhcmoyQHNvdXRoZXJuY3QuZWR1",
