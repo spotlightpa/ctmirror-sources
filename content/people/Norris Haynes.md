@@ -25,7 +25,7 @@
   "last": "Haynes",
   "title": "Norris M. Haynes",
   "images": [
-    "/img/uploads/norris-haynes.tif"
+    "/img/uploads/haynes-norris.jpg"
   ],
   "website": "http://epsconnecticut.com",
   "email": "aGF5bmVzbjFAc291dGhlcm5jdC5lZHU=",
