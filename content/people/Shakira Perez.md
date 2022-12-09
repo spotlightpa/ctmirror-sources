@@ -1,30 +1,30 @@
 {
-  "title": "Shakira R Perez",
-  "linktitle": "Shakira Perez",
-  "first": "Shakira",
-  "middle": "R",
-  "last": "Perez",
-  "pronunciation": "SHA-KEER-RAH PER-REZ",
   "honorific": "Ms.",
+  "facebook": "",
   "pronoun": "she/her",
-  "role": "Teacher",
+  "bio": "",
+  "layout": "person",
+  "keywords": [],
+  "phone": "8609066660",
+  "first": "Shakira",
   "expertise": [
     "Education"
   ],
-  "keywords": [],
-  "email": "c2hha2lyYXBlcmV6QG91dGxvb2suY29t",
-  "images": [
-    "/img/uploads/toy_pic (2).jpg"
-  ],
-  "website": "",
-  "facebook": "",
-  "twitter": "",
   "instagram": "",
-  "linkedin": "",
+  "twitter": "",
+  "middle": "R",
+  "pronunciation": "SHA-KEER-RAH PER-REZ",
   "location": [
     "Hartford"
   ],
-  "phone": "8609066660",
-  "bio": "",
-  "layout": "person"
+  "role": "Teacher",
+  "last": "Perez",
+  "title": "Shakira R Perez",
+  "images": [
+    "/img/uploads/shakira-perez.jpg"
+  ],
+  "website": "",
+  "email": "c2hha2lyYXBlcmV6QG91dGxvb2suY29t",
+  "linkedin": "",
+  "linktitle": "Shakira Perez"
 }
