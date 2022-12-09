@@ -29,7 +29,7 @@
   "last": "Kennedy",
   "title": "Amanda E. Kennedy",
   "images": [
-    "/img/uploads/face.jpg"
+    "/img/uploads/amanda-kennedy-.jpg"
   ],
   "website": "https://ct.planning.org",
   "email": "YWtlbm5lZHlAc2VjY29nLm9yZw==",
