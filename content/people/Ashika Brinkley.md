@@ -1,34 +1,9 @@
 {
-  "title": "Ashika Brinkley",
-  "linktitle": "Ashika Brinkley",
-  "first": "Ashika",
-  "middle": "",
-  "last": "Brinkley",
-  "pronunciation": "Uh-she-cuh",
   "honorific": "Dr.",
+  "facebook": "",
   "pronoun": "she/her",
-  "role": "Owner/Implementation, Monitoring, Evaluation and Training Consultant",
-  "expertise": [
-    "Civil Rights & Equality",
-    "Community Services",
-    "Diversity & Inclusion",
-    "Education",
-    "Environment",
-    "Gender & Sexuality",
-    "Health & Medicine",
-    "Psychology",
-    "Science",
-    "Small Business",
-    "Wellness",
-    "Travel & Tourism",
-    "Technology",
-    "Politics",
-    "Municipal Government",
-    "Labor",
-    "Immigration",
-    "Arts, Entertainment & Culture",
-    "Business & Finance"
-  ],
+  "bio": "Ashika Brinkley is a consultant and owner of Severin Brinkley Consulting. She is also an Associate Professor of Public Health at Goodwin University, with a background in Chronic Disease Epidemiology, and Occupational Health. She has worked in both the private and public sectors, engaging in public health research and public health practice, to improve health outcomes for the most vulnerable populations. She holds a Master of Public Health from Yale University and a Doctor of Philosophy in Public Health from the University of Connecticut. Her Master’s thesis explored barriers to screening mammography in African American women, while her doctoral research explored the health behaviors and health outcomes of Community Health Workers. Ashika volunteers her time with several organizations including the Public Health Accreditation Board (PHAB) as a site visitor, and the Health Resources and Services Administration (HRSA) as a grant reviewer. She has served on several boards including the Connecticut Public Health Association, the Connecticut Coalition for Environmental Justice, and the Institute for Community Research. Ashika shares her life with her husband and son.",
+  "layout": "person",
   "keywords": [
     "Public Health",
     "Educator",
@@ -67,19 +42,44 @@
     "Presenter",
     "Radio Personality"
   ],
-  "email": "YXNoaWthLmJyaW5rbGV5QGdtYWlsLmNvbQ==",
-  "images": [
-    "/img/uploads/Head Shot Ashika Brinkley.JPG"
+  "phone": "8609959438",
+  "first": "Ashika",
+  "expertise": [
+    "Civil Rights & Equality",
+    "Community Services",
+    "Diversity & Inclusion",
+    "Education",
+    "Environment",
+    "Gender & Sexuality",
+    "Health & Medicine",
+    "Psychology",
+    "Science",
+    "Small Business",
+    "Wellness",
+    "Travel & Tourism",
+    "Technology",
+    "Politics",
+    "Municipal Government",
+    "Labor",
+    "Immigration",
+    "Arts, Entertainment & Culture",
+    "Business & Finance"
   ],
-  "website": "www.severinbrinkley.com",
-  "facebook": "",
-  "twitter": "",
   "instagram": "",
-  "linkedin": "abrinkleyphd",
+  "twitter": "",
+  "middle": "",
+  "pronunciation": "Uh-she-cuh",
   "location": [
     "Bristol"
   ],
-  "phone": "8609959438",
-  "bio": "Ashika Brinkley is a consultant and owner of Severin Brinkley Consulting. She is also an Associate Professor of Public Health at Goodwin University, with a background in Chronic Disease Epidemiology, and Occupational Health. She has worked in both the private and public sectors, engaging in public health research and public health practice, to improve health outcomes for the most vulnerable populations. She holds a Master of Public Health from Yale University and a Doctor of Philosophy in Public Health from the University of Connecticut. Her Master\u2019s thesis explored barriers to screening mammography in African American women, while her doctoral research explored the health behaviors and health outcomes of Community Health Workers. Ashika volunteers her time with several organizations including the Public Health Accreditation Board (PHAB) as a site visitor, and the Health Resources and Services Administration (HRSA) as a grant reviewer. She has served on several boards including the Connecticut Public Health Association, the Connecticut Coalition for Environmental Justice, and the Institute for Community Research. Ashika shares her life with her husband and son.",
-  "layout": "person"
+  "role": "Owner/Implementation, Monitoring, Evaluation and Training Consultant",
+  "last": "Brinkley",
+  "title": "Ashika Brinkley",
+  "images": [
+    "/img/uploads/ashika-brinkley.jpg"
+  ],
+  "website": "www.severinbrinkley.com",
+  "email": "YXNoaWthLmJyaW5rbGV5QGdtYWlsLmNvbQ==",
+  "linkedin": "abrinkleyphd",
+  "linktitle": "Ashika Brinkley"
 }
