@@ -1,20 +1,9 @@
 {
-  "title": "Jemel Aguilar",
-  "linktitle": "Jemel Aguilar",
-  "first": "Jemel",
-  "middle": "",
-  "last": "Aguilar",
-  "pronunciation": "Jah mal",
   "honorific": "Dr",
+  "facebook": "",
   "pronoun": "he him",
-  "role": "Associate Professor",
-  "expertise": [
-    "Diversity & Inclusion",
-    "Criminal Justice",
-    "Gender & Sexuality",
-    "Sociology",
-    "Health & Medicine"
-  ],
+  "bio": "I have over 30 years experience providing case management and clinical social work services to people with HIV, those living with ME/CFS, and others with chronic illnesses. I also conduct research in these areas as well as teaching and engage in research related to oppression in American Society.",
+  "layout": "person",
   "keywords": [
     "Person living with a chronic illness",
     "Clinical Social Worker",
@@ -22,19 +11,30 @@
     "Educator",
     "Health Advocate"
   ],
-  "email": "YWd1aWxhcmoyQHNvdXRoZXJuY3QuZWR1",
-  "images": [
-    "/img/uploads/faceshot.jpg"
+  "phone": "2033925363",
+  "first": "Jemel",
+  "expertise": [
+    "Diversity & Inclusion",
+    "Criminal Justice",
+    "Gender & Sexuality",
+    "Sociology",
+    "Health & Medicine"
   ],
-  "website": "",
-  "facebook": "",
-  "twitter": "",
   "instagram": "",
-  "linkedin": "jemel-aguilar-00ba68b8",
+  "twitter": "",
+  "middle": "",
+  "pronunciation": "Jah mal",
   "location": [
     "Newington"
   ],
-  "phone": "2033925363",
-  "bio": "I have over 30 years experience providing case management and clinical social work services to people with HIV, those living with ME/CFS, and others with chronic illnesses. I also conduct research in these areas as well as teaching and engage in research related to oppression in American Society.",
-  "layout": "person"
+  "role": "Associate Professor",
+  "last": "Aguilar",
+  "title": "Jemel Aguilar",
+  "images": [
+    "/img/uploads/jemel-aguilar-.jpg"
+  ],
+  "website": "",
+  "email": "YWd1aWxhcmoyQHNvdXRoZXJuY3QuZWR1",
+  "linkedin": "jemel-aguilar-00ba68b8",
+  "linktitle": "Jemel Aguilar"
 }
