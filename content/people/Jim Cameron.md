@@ -21,7 +21,7 @@
   "last": "Cameron",
   "title": "Jim Cameron",
   "images": [
-    "/img/uploads/Jim Cameron  2021.JPG"
+    "/img/uploads/jim-cameron-.jpg"
   ],
   "website": "https://ji503.wixsite.com/commuteractiongroup",
   "email": "amltQG1lZGlhdHJhaW5lci50dg==",
