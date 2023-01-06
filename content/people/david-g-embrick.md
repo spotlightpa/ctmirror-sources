@@ -24,7 +24,7 @@
   "last": "Embrick",
   "title": "David G. Embrick ",
   "images": [
-    "/img/uploads/a465682c.jpg"
+    "/img/uploads/david-embrick.jpg"
   ],
   "email": "ZGF2aWQuZW1icmlja0B1Y29ubi5lZHU=",
   "linktitle": "David Embrick"
