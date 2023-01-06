@@ -25,7 +25,7 @@
   "last": "Blanchard ",
   "title": "Lloyd A. Blanchard ",
   "images": [
-    "/img/uploads/blanchard_uconn.jpg"
+    "/img/uploads/llyod-blanchard.jpg"
   ],
   "email": "bGxveWQuYmxhbmNoYXJkQHVjb25uLmVkdQ==",
   "linktitle": "Lloyd Blanchard"
