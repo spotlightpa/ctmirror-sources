@@ -20,7 +20,7 @@
   "last": "Morris",
   "title": "Shenice Morris",
   "images": [
-    "/img/uploads/screen-shot-2022-03-10-at-8.14.10-pm.png"
+    "/img/uploads/shenice-morris-.png"
   ],
   "website": "https://www.empowerenergy.co/",
   "email": "c2hlbmljZS5tQGVtcG93ZXJlbmVyZ3kuY28=",
