@@ -18,7 +18,7 @@
   "last": "Lawrence ",
   "title": "Julie Lawrence ",
   "images": [
-    "/img/uploads/44c5c0de-7bc6-434a-a89f-63fc28f90775.jpeg"
+    "/img/uploads/julie-lawrence.jpeg"
   ],
   "email": "",
   "linktitle": "Julie Lawrence"
