@@ -27,7 +27,7 @@
   "last": "Boudreaux",
   "title": "Dr. Mary K. Boudreaux",
   "images": [
-    "/img/uploads/8gfV1_ygPrXPqb3l3hKUeIWkKjhYETlbAcY7c2Ia28c.jpg"
+    "/img/uploads/mary-boudreaux-.jpg"
   ],
   "email": "Ym91ZHJlYXV4bTFAc291dGhlcm5jdC5lZHU=",
   "linktitle": "Mary Boudreaux"
