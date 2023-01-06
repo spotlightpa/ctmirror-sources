@@ -26,7 +26,7 @@
   "last": "Bernard",
   "title": "Gregory J Bernard",
   "images": [
-    "https://v5.airtableusercontent.com/v1/10/10/1668038400000/m_sfPwlojcNJv4u1WDjoBg/6R9BPOfbO6NS7Fm4D31xJzURxhyv-j8P3px3bDvj0wuKU8UBYcPmxykr2geZFx3DMo1tGb_97mtyDFZV2tJVkQ/TlqAmdbl7eiXuohcixLATDEgQCEnU1EIuQPWJAC6xpU"
+    "/img/uploads/gregory-j-bernard.jpg"
   ],
   "website": "https://www.thebernardgroupllc.org/",
   "email": "Z3JlZ29yeS5qYXNvbi5iZXJuYXJkQGdtYWlsLmNvbQ==",
