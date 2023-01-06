@@ -25,7 +25,7 @@
   "last": "Hosley",
   "title": "William Hosley",
   "images": [
-    "/img/uploads/4943094c.jpg"
+    "/img/uploads/william-hosley-.jpeg"
   ],
   "email": "d25ob3NsZXlAc25ldC5uZXQ=",
   "linktitle": "William Hosley"
