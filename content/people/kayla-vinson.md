@@ -20,7 +20,7 @@
   "last": "Vinson",
   "title": "Kayla Vinson",
   "images": [
-    "/img/uploads/55734bb4.jpg"
+    "/img/uploads/kayla-vinson.jpg"
   ],
   "email": "a2F5bGEudmluc29uQHlhbGUuZWR1",
   "linktitle": "Kayla Vinson"
