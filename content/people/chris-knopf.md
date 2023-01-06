@@ -33,7 +33,7 @@
   "last": "Knopf",
   "title": "Chris Knopf",
   "images": [
-    "/img/uploads/chris_knopf_061317.jpg"
+    "/img/uploads/chris-knopf.jpg"
   ],
   "website": "www.chrisknopfmystery.com",
   "email": "Y2hyaXNrbm9wZkBnbWFpbC5jb20=",
