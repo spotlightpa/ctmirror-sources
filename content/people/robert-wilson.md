@@ -20,7 +20,9 @@
   "role": "Visiting Professor/Department of Public Policy, UConn",
   "last": "Wilson",
   "title": "Robert Wilson ",
-  "images": [],
+  "images": [
+    "/img/uploads/robert-wilson.jpg"
+  ],
   "email": "cndpbHNvbkB1dGV4YXMuZWR1",
   "linktitle": "Robert Wilson"
 }
