@@ -1,17 +1,9 @@
 {
-  "title": "Violet Jim\u00e9nez Sims",
-  "linktitle": "Violet Sims",
-  "first": "Violet",
-  "middle": "Jim\u00e9nez",
-  "last": "Sims",
-  "pronunciation": "",
   "honorific": "Dr.",
+  "facebook": "SimsSquared",
   "pronoun": "she/her/hers",
-  "role": "Co-Owner, Lead Consultant",
-  "expertise": [
-    "Diversity & Inclusion",
-    "Education"
-  ],
+  "bio": "Dr. Sims has extensive experience in teaching and leadership at every level of education – from Pre-K through university settings. She has dedicated both her professional career and community involvement to diversity, equity, inclusion, and social justice initiatives. An expert in both research and practice, her research interests include dual language education models, bilingualism and biliteracy, and culturally and linguistically responsive spaces.",
+  "layout": "person",
   "keywords": [
     "dual language",
     "bilingual",
@@ -21,17 +13,25 @@
     "culturally responsive",
     "linguistically diverse"
   ],
-  "email": "aW5mb0BzaW1zc3F1YXJlZC5jb20=",
+  "phone": "8609449306",
+  "first": "Violet",
+  "expertise": [
+    "Diversity & Inclusion",
+    "Education"
+  ],
+  "instagram": "",
+  "twitter": "",
+  "middle": "Jiménez",
+  "pronunciation": "",
+  "location": [],
+  "role": "Co-Owner, Lead Consultant",
+  "last": "Sims",
+  "title": "Violet Jiménez Sims",
   "images": [
-    "/img/uploads/Violet Jim\u00e9nez Sims_Headshot.jpg"
+    "/img/uploads/violet-jiménez-sims.jpg"
   ],
   "website": "https://www.simssquared.com",
-  "facebook": "SimsSquared",
-  "twitter": "",
-  "instagram": "",
-  "linkedin": "dr-violet-jim\u00e9nez-sims-03a782b4",
-  "location": [],
-  "phone": "8609449306",
-  "bio": "Dr. Sims has extensive experience in teaching and leadership at every level of education \u2013 from Pre-K through university settings. She has dedicated both her professional career and community involvement to diversity, equity, inclusion, and social justice initiatives. An expert in both research and practice, her research interests include dual language education models, bilingualism and biliteracy, and culturally and linguistically responsive spaces.",
-  "layout": "person"
+  "email": "aW5mb0BzaW1zc3F1YXJlZC5jb20=",
+  "linkedin": "dr-violet-jiménez-sims-03a782b4",
+  "linktitle": "Violet Sims"
 }
