@@ -26,7 +26,7 @@
   "last": "Casa",
   "title": "Gian-Carl F Casa",
   "images": [
-    "/img/uploads/headshot-1-.jpg"
+    "/img/uploads/gian-carl.jpg"
   ],
   "website": "",
   "email": "Z2Nhc2FAY3Rub25wcm9maXRhbGxpYW5jZS5vcmc=",
