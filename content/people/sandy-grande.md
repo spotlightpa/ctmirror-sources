@@ -25,7 +25,7 @@
   "last": "Grande",
   "title": "Sandy Grande ",
   "images": [
-    "/img/uploads/sg-pic-closed-smile.jpg"
+    "/img/uploads/sandy-grande.jpg"
   ],
   "email": "c2FuZHkuZ3JhbmRlQHVjb25uLmVkdQ==",
   "linktitle": "Sandy"
