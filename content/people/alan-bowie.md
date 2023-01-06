@@ -29,7 +29,7 @@
   "last": "Bowie",
   "title": "Alan Bowie",
   "images": [
-    "/img/uploads/bowie.jpg"
+    "/img/uploads/alan-bowie.jpg"
   ],
   "email": "Ym93aWUuYWxhbkBnbWFpbC5jb20=",
   "linkedin": "https://www.linkedin.com/in/alan-bowie-b7a23b6a/",
