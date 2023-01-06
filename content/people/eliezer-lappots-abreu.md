@@ -21,7 +21,7 @@
   "last": "LAPPOTS-ABREU",
   "title": "ELIEZER LAPPOTS-ABREU",
   "images": [
-    "/img/uploads/img-7928-1-.jpg"
+    "/img/uploads/dr.-eliezer-lappots.jpg"
   ],
   "website": "hhidr.org",
   "email": "RUxBUFBPVFNASEhJRFIuT1JH",
