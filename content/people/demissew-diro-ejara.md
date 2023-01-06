@@ -25,7 +25,7 @@
   "last": "Ejara",
   "title": "Demissew Diro Ejara",
   "images": [
-    "/img/uploads/478675fd.jpg"
+    "/img/uploads/demissew-ejara.jpg"
   ],
   "website": "https://www.newhaven.edu/faculty-staff-profiles/demissew-ejara.php",
   "email": "ZWphcmFkQGdtYWlsLmNvbQ==",
