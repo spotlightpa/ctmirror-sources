@@ -21,6 +21,7 @@
   "last": "Nguyen",
   "title": "Dr. Duy Nguyen",
   "images": [
+    "/img/uploads/duy-nguyen.jpeg"
   ],
   "website": "https://www.sacredheart.edu/academics/colleges--schools/school-of-social-work/",
   "email": "bmd1eWVuZDRAc2FjcmVkaGVhcnQuZWR1",
