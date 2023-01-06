@@ -22,7 +22,7 @@
   "last": "Parekh De Campos",
   "title": "Amisha Parekh De Campos",
   "images": [
-    "/img/uploads/8fd8425e.jpg"
+    "/img/uploads/amisha-parekh-de-campos.jpg"
   ],
   "email": "YW1pc2hhLnBhcmVraF9kZV9jYW1wb3NAdWNvbm4uZWR1",
   "linktitle": "Amisha Parekh De Campos "
