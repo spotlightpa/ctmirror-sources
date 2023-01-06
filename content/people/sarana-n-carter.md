@@ -31,7 +31,7 @@
   "last": "Carter ",
   "title": "Sarana N Carter",
   "images": [
-    "/img/uploads/793f002d-9c53-48b5-917d-b337d37d6dc3.jpeg"
+    "/img/uploads/sarana-carter.jpeg"
   ],
   "website": "ctbbsu.com/mutualaidhartford.com",
   "email": "cmFAY3RiYnN1LmNvbQ==",
