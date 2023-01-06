@@ -26,7 +26,7 @@
   "last": "Humber",
   "title": "Nadiyah J. Humber",
   "images": [
-    "/img/uploads/e85ed0b3.jpg"
+    "/img/uploads/nadiyah-humber.jpg"
   ],
   "email": "bmFkaXlhaC5odW1iZXJAdWNvbm4uZWR1",
   "linktitle": "Nadiyah Humber"
