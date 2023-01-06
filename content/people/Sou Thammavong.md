@@ -1,13 +1,12 @@
 {
-  "title": "Sou Thammavong",
-  "linktitle": "Sou Thammavong",
-  "first": "Sou",
-  "middle": "",
-  "last": "Thammavong",
-  "pronunciation": "Sue Tam ma vong",
   "honorific": "Ms",
+  "facebook": "",
   "pronoun": "she/her",
-  "role": "Recovery Friendly Workplace & Outreach Coordinator",
+  "bio": "I have worked in the greater Hartford area in different capacities as a Case Manager, Community Educator, Academic Advisor, Advocate and Program Coordinator since 2008.",
+  "layout": "person",
+  "keywords": [],
+  "phone": "860-667-6388 x 5",
+  "first": "Sou",
   "expertise": [
     "Civil Rights & Equality",
     "Community Services",
@@ -17,20 +16,21 @@
     "State Government - Legislative",
     "Wellness"
   ],
-  "keywords": [],
-  "email": "c291QGFtcGxpZnljdC5vcmc=",
-  "images": [
-    "/img/uploads/sou pr.jpg"
-  ],
-  "website": "",
-  "facebook": "",
-  "twitter": "",
   "instagram": "",
-  "linkedin": "",
+  "twitter": "",
+  "middle": "",
+  "pronunciation": "Sue Tam ma vong",
   "location": [
     "Manchester"
   ],
-  "phone": "860-667-6388 x 5",
-  "bio": "I have worked in the greater Hartford area in different capacities as a Case Manager, Community Educator, Academic Advisor, Advocate and Program Coordinator since 2008.",
-  "layout": "person"
+  "role": "Recovery Friendly Workplace & Outreach Coordinator",
+  "last": "Thammavong",
+  "title": "Sou Thammavong",
+  "images": [
+    "/img/uploads/sou-thammavong.jpg"
+  ],
+  "website": "",
+  "email": "c291QGFtcGxpZnljdC5vcmc=",
+  "linkedin": "",
+  "linktitle": "Sou Thammavong"
 }
