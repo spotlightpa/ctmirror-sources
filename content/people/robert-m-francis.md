@@ -23,7 +23,7 @@
   "last": "Francis ",
   "title": "Robert M Francis",
   "images": [
-    "/img/uploads/2bc064f6.jpg"
+    "/img/uploads/robert-francis-.jpeg"
   ],
   "email": "cm9iZXJ0LmZyYW5jaXMwMjEyQGdtYWlsLmNvbQ==",
   "linktitle": "Robert Francis"
