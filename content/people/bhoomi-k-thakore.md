@@ -33,7 +33,7 @@
   "last": "Thakore",
   "title": "Bhoomi K. Thakore",
   "images": [
-    "/img/uploads/4b5a2db5.jpg"
+    "/img/uploads/bhoomi-k-thakore.jpeg"
   ],
   "website": "bhoomikthakore.com",
   "email": "Ymhvb21pLnRoYWtvcmVAdWNvbm4uZWR1",
