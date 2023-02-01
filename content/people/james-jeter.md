@@ -20,7 +20,7 @@
   "role": "Co-Director",
   "last": "Jeter",
   "title": "James Jeter",
-  "website": "http://fullcitizenscoalition.org",
+  "website": "",
   "email": "ai5qZXRlckBmdWxsY2l0aXplbnNjb2FsaXRpb24ub3Jn",
   "linktitle": "James Jeter"
 }
