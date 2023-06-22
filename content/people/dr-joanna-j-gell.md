@@ -21,7 +21,7 @@
   ],
   "role": "Research Scientist, Assistant Professor",
   "last": "Gell",
-  "title": "Dr. Joanna J. Gell",
+  "title": "Joanna J. Gell",
   "images": [
     "/img/uploads/gell_headshot.jpeg"
   ],
