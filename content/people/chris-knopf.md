@@ -36,6 +36,6 @@
     "/img/uploads/chris-knopf.jpg"
   ],
   "website": "www.chrisknopfmystery.com",
-  "email": "Y2hyaXNrbm9wZkBnbWFpbC5jb20=",
+  "email": "Y2hyaXNoa25vcGZAZ21haWwuY29t",
   "linktitle": "Chris "
 }
