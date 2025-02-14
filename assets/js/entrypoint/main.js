@@ -9,7 +9,8 @@ document.addEventListener("alpine:initializing", () => {
 });
 
 // Redirect admin emails to admin
-const routes = /(confirmation|invite|recovery|email_change)_token=([^&]+)/g;
+const routes =
+  /(access|confirmation|invite|recovery|email_change)_token=([^&]+)/g;
 
 if (window.location.hash.match(routes)) {
   window.location.replace(
