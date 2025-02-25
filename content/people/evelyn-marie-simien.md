@@ -10,7 +10,7 @@
     "women and politics",
     "African American public opinion"
   ],
-  "phone": "18609133326",
+  "phone": "",
   "first": "Evelyn",
   "expertise": [
     "\"Civil rights",
